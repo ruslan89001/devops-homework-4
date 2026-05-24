@@ -41,4 +41,4 @@ docker run -d -p 80:80 -p 5432:5432 nikiforov_ra_image_20260524
  docker exec -it unruffled_aryabhata su - postgres -c "psql -c '\l'"
 ```
 
-![image](image.png)
+![image](screenshots/image.png)
